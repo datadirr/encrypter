@@ -1,6 +1,6 @@
 name: encrypter
 description: "This package helps to encryption and decryption and hash with verification."
-repository: https://github.com/datadirr/encrypt_decrypt_plus
+repository: https://github.com/datadirr/encrypter
 homepage: https://datadirr.com
 version: 1.0.0
 

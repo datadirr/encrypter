@@ -2,7 +2,7 @@ name: encrypter
 description: "This package helps to encryption and decryption and hash with verification."
 repository: https://github.com/datadirr/encrypter
 homepage: https://datadirr.com
-version: 3.0.0
+version: 3.1.0
 
 environment:
   sdk: ^3.12.0
